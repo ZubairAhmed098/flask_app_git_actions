@@ -23,4 +23,4 @@ jobs:
         run: pip install -r req.txt
 
       - name: Run tests
-        run: pytest -v
+        run: pytest -v 
